@@ -1,4 +1,4 @@
-# © @AvishkarPatil [ Telegram ]
+# © @am_dq_fan [ Telegram ]
 
 from WebStreamer.bot import StreamBot
 from WebStreamer.vars import Var
@@ -155,7 +155,7 @@ async def start(b, m):
             except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="**Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ** [Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ](https://t.me/Avishkarpatil).",
+                    text="**Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ** [༒丹ղShιf ᴰQ™⁪⁬⁮⁮⁮⁮ ‌‌‌‌༒](https://t.me/Am_dq_fan).",
                     parse_mode="markdown",
                     disable_web_page_preview=True)
                 return

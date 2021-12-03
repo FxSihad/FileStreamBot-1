@@ -56,7 +56,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/dqanshi/FileStreamBote">
+<a href="https://heroku.com/deploy?template=https://github.com/FxSihad/FileStreamBote">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables. </details>
